@@ -65,14 +65,14 @@ With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQue
 
 ✅ Divi & Elementor Mastery:
 
-✔️Theme Customization and Styling
-✔️Elementor Page Builder Integration
-✔️Plugin Installation and Customization
-✔️SEO Optimization for WordPress
-✔️Landing Page Creation with Divi & Elementor
-✔️Responsive and Mobile-Friendly Design
-✔️Interactive and Engaging User Experiences
-✔️JetPlugins for Elementor by Crocoblock
+✔️Theme Customization and Styling </br>
+✔️Elementor Page Builder Integration </br>
+✔️Plugin Installation and Customization </br>
+✔️SEO Optimization for WordPress </br>
+✔️Landing Page Creation with Divi & Elementor </br>
+✔️Responsive and Mobile-Friendly Design </br>
+✔️Interactive and Engaging User Experiences </br>
+✔️JetPlugins for Elementor by Crocoblock </br>
 
 ✅ React & Next.js Development:
 
