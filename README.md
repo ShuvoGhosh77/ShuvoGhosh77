@@ -13,7 +13,7 @@ With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQue
 
 ✅ WordPress Development:
 
-✔️WordPress theme & Plugin development
+✔️WordPress theme & Plugin development </br>
 ✔️Fully Responsive  and Mobile-Friendly website
 ✔️WordPress Multilanguage Using WPML and Polylang
 ✔️ACF (Advanced Custom Fields)
