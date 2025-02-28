@@ -1,9 +1,11 @@
 ![Reactjs Developer](https://i.ibb.co/t3k5Txk/react-js-banner.png)
 
 ### Hi there 👋, I am Shuvo Gosh
-#### Full Stack Developer
+#### WordPress Expert | Elementor | Divi |WooCommerce | Shopify Expert
 
-I am Shuvo Gosh, a Full Stack Developer. I have completed my B.sc in Computer Science and Engineering at International University of Business Agriculture and Technology. I am interested in exploring technologies I found web development as my passion. I am aspiring to bring that passion to a full-time role. I have completed a fiv-month-long web development Bootcamp course from Programming Hero on the MERN stack. From the outcome, I can develop Single Page Applications with ReactJs, JavaScript,TypeScript, Bootstrap-5, Tailwindcss, HTML5, and CSS3. I have some skills in Node.js, Express.js, and MongoDB and developing REST API.  I take my work as a Web Developer seriously, which means I always ensure my skills are kept up to date with this rapidly changing new technology.
+Are you looking for a top-notch WordPress developer who crafts  powerful, high-performing websites and  eCommerce website that drives results?
+Your search ends here!  Myself Shuvo Gosh. a professional WordPress Developer, Elementor, Divi and  WooCommerce specialist with 4+ years of industry experience. From designing to developing, fixing bugs, site speed optimization, and more, I’ve completed 100+ projects successfully.
+With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQuery, Back-end PHP, Laravel,Nodejs, mysql, sql, PostgreSQL. I can create device-friendly, interactive, and dynamic eCommerce websites. Also, I’ve real-life working experience with page builders like Elementor, Divi, WPBakery, Oxygen, and Crocoblock.
 
 ### Skills:
 <div>
