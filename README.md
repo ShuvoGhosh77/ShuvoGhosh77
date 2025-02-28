@@ -9,6 +9,83 @@ Your search ends here!  Myself Shuvo Gosh. a professional WordPress Developer, E
 
 With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQuery, Back-end PHP, Laravel,Nodejs, mysql, sql, PostgreSQL. I can create device-friendly, interactive, and dynamic eCommerce websites. Also, I’ve real-life working experience with page builders like Elementor, Divi, WPBakery, Oxygen, and Crocoblock.
 
+🚀 Expertise Highlights:
+
+✅ WordPress Development:
+
+✔️WordPress theme & Plugin development
+✔️Fully Responsive  and Mobile-Friendly website
+✔️WordPress Multilanguage Using WPML and Polylang
+✔️ACF (Advanced Custom Fields)
+✔️Custom WordPress Website Design
+✔️PSD to WordPress Theme
+✔️Figma to WordPress
+✔️HML5/CSS3 to WordPress Theme
+✔️Premium Theme Customization (i.e., Thrive, Salient, Divi, Avada, Astra, Elementor)
+✔️Plugin Customization
+✔️WordPress issue/error fix
+✔️Bug fix , website issue
+✔️WordPress maintenance
+✔️WordPress Page Speed Increasing
+✔️Landing page Design and development
+✔️Cross-browser compatibility testing
+✔️PHP and MySQL database development
+✔️ Responsive web design
+✔️WooCommerce e-commerce integration
+
+✅ WooCommerce Wizard:
+
+✔️WooCommerce Setup and Customization
+✔️Product listings and seamless checkout experiences,
+✔️Custom Theme Development and Integration
+✔️Plugin Installation and Customization
+✔️SEO Optimization for E-commerce
+✔️Performance and Speed Optimization
+✔️Security Enhancements
+
+✅ Shopify Development:
+
+✔️Shopify Store Design/UX/UI
+✔️Shopify Store Development from Scratch
+✔️Figma to Shopify Conversion
+✔️Shopify Store Redesign & Development
+✔️SEO Optimization for E-commerce
+✔️Shopify Custom Theme Development and Design
+✔️Custom Liquid Coding for Presentation and Layout
+✔️Shopify Page Builders Apps (Shogun, PageFly, GemPages, etc.)
+✔️Shopify Page Speed Optimization
+✔️Shopify Store Setup & Maintenance
+✔️Shopify Store Development with Mobile Compatibility/Responsive
+✔️API Integration & Custom Checkout in Shopify
+✔️Shopify App Recommendations & Integrations
+✔️3rd Party Apps Integration & Configuration (Facebook, Instagram, TikTok, etc.)
+✔️Payment, Shipping, Tax Set Up
+✔️Subscription & Product Bundles
+✔️Headless Commerce Development
+
+✅ Divi & Elementor Mastery:
+
+✔️Theme Customization and Styling
+✔️Elementor Page Builder Integration
+✔️Plugin Installation and Customization
+✔️SEO Optimization for WordPress
+✔️Landing Page Creation with Divi & Elementor
+✔️Responsive and Mobile-Friendly Design
+✔️Interactive and Engaging User Experiences
+✔️JetPlugins for Elementor by Crocoblock
+
+✅ React & Next.js Development:
+
+✔️Building custom React and Next.js applications.
+✔️Developing reusable components and libraries for React and Next.js projects.
+✔️Implementing state management solutions such as Redux or React Context API.
+✔️Integrating with RESTful APIs or GraphQL for data fetching.
+✔️Responsive and Mobile-Friendly Design
+✔️Utilizing CSS frameworks like Bootstrap or Tailwind CSS for responsive layout design
+✔️Converting PSD or Figma design files into React and Next.js components and layouts.
+✔️Ensuring pixel-perfect implementation of design specifications.
+
+
 ### Skills:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="50" height="50"/>
