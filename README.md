@@ -35,12 +35,12 @@ With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQue
 
 ✅ WooCommerce Wizard:
 
-✔️WooCommerce Setup and Customization
-✔️Product listings and seamless checkout experiences,
-✔️Custom Theme Development and Integration
-✔️Plugin Installation and Customization
-✔️SEO Optimization for E-commerce
-✔️Performance and Speed Optimization
+✔️WooCommerce Setup and Customization  </br>
+✔️Product listings and seamless checkout experiences,  </br>
+✔️Custom Theme Development and Integration  </br>
+✔️Plugin Installation and Customization  </br>
+✔️SEO Optimization for E-commerce  </br>
+✔️Performance and Speed Optimization  </br>
 ✔️Security Enhancements
 
 ✅ Shopify Development:
