@@ -76,14 +76,14 @@ With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQue
 
 ✅ React & Next.js Development:
 
-✔️Building custom React and Next.js applications.
-✔️Developing reusable components and libraries for React and Next.js projects.
-✔️Implementing state management solutions such as Redux or React Context API.
-✔️Integrating with RESTful APIs or GraphQL for data fetching.
-✔️Responsive and Mobile-Friendly Design
-✔️Utilizing CSS frameworks like Bootstrap or Tailwind CSS for responsive layout design
-✔️Converting PSD or Figma design files into React and Next.js components and layouts.
-✔️Ensuring pixel-perfect implementation of design specifications.
+✔️Building custom React and Next.js applications. </br>
+✔️Developing reusable components and libraries for React and Next.js projects. </br>
+✔️Implementing state management solutions such as Redux or React Context API. </br>
+✔️Integrating with RESTful APIs or GraphQL for data fetching. </br>
+✔️Responsive and Mobile-Friendly Design. </br>
+✔️Utilizing CSS frameworks like Bootstrap or Tailwind CSS for responsive layout design. </br>
+✔️Converting PSD or Figma design files into React and Next.js components and layouts. </br>
+✔️Ensuring pixel-perfect implementation of design specifications. </br>
 
 
 ### Skills:
