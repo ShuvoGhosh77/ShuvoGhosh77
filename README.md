@@ -14,24 +14,24 @@ With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQue
 ✅ WordPress Development:
 
 ✔️WordPress theme & Plugin development </br>
-✔️Fully Responsive  and Mobile-Friendly website
-✔️WordPress Multilanguage Using WPML and Polylang
-✔️ACF (Advanced Custom Fields)
-✔️Custom WordPress Website Design
-✔️PSD to WordPress Theme
-✔️Figma to WordPress
-✔️HML5/CSS3 to WordPress Theme
-✔️Premium Theme Customization (i.e., Thrive, Salient, Divi, Avada, Astra, Elementor)
-✔️Plugin Customization
-✔️WordPress issue/error fix
-✔️Bug fix , website issue
-✔️WordPress maintenance
-✔️WordPress Page Speed Increasing
-✔️Landing page Design and development
-✔️Cross-browser compatibility testing
-✔️PHP and MySQL database development
-✔️ Responsive web design
-✔️WooCommerce e-commerce integration
+✔️Fully Responsive  and Mobile-Friendly website  </br>
+✔️WordPress Multilanguage Using WPML and Polylang  </br>
+✔️ACF (Advanced Custom Fields)  </br>
+✔️Custom WordPress Website Design  </br>
+✔️PSD to WordPress Theme  </br>
+✔️Figma to WordPress  </br>
+✔️HML5/CSS3 to WordPress Theme  </br>
+✔️Premium Theme Customization (i.e., Thrive, Salient, Divi, Avada, Astra, Elementor)  </br>
+✔️Plugin Customization  </br>
+✔️WordPress issue/error fix  </br>
+✔️Bug fix , website issue  </br>
+✔️WordPress maintenance  </br>
+✔️WordPress Page Speed Increasing  </br>
+✔️Landing page Design and development  </br>
+✔️Cross-browser compatibility testing  </br>
+✔️PHP and MySQL database development  </br>
+✔️ Responsive web design  </br>
+✔️WooCommerce e-commerce integration  </br>
 
 ✅ WooCommerce Wizard:
 
