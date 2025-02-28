@@ -45,23 +45,23 @@ With my proficiency in front end - HTML, CSS, JavaScript, React, Nextjs and JQue
 
 ✅ Shopify Development:
 
-✔️Shopify Store Design/UX/UI
-✔️Shopify Store Development from Scratch
-✔️Figma to Shopify Conversion
-✔️Shopify Store Redesign & Development
-✔️SEO Optimization for E-commerce
-✔️Shopify Custom Theme Development and Design
-✔️Custom Liquid Coding for Presentation and Layout
-✔️Shopify Page Builders Apps (Shogun, PageFly, GemPages, etc.)
-✔️Shopify Page Speed Optimization
-✔️Shopify Store Setup & Maintenance
-✔️Shopify Store Development with Mobile Compatibility/Responsive
-✔️API Integration & Custom Checkout in Shopify
-✔️Shopify App Recommendations & Integrations
-✔️3rd Party Apps Integration & Configuration (Facebook, Instagram, TikTok, etc.)
-✔️Payment, Shipping, Tax Set Up
-✔️Subscription & Product Bundles
-✔️Headless Commerce Development
+✔️Shopify Store Design/UX/UI </br>
+✔️Shopify Store Development from Scratch </br>
+✔️Figma to Shopify Conversion </br>
+✔️Shopify Store Redesign & Development </br>
+✔️SEO Optimization for E-commerce </br>
+✔️Shopify Custom Theme Development and Design </br>
+✔️Custom Liquid Coding for Presentation and Layout </br>
+✔️Shopify Page Builders Apps (Shogun, PageFly, GemPages, etc.) </br>
+✔️Shopify Page Speed Optimization </br>
+✔️Shopify Store Setup & Maintenance </br>
+✔️Shopify Store Development with Mobile Compatibility/Responsive </br>
+✔️API Integration & Custom Checkout in Shopify </br>
+✔️Shopify App Recommendations & Integrations </br>
+✔️3rd Party Apps Integration & Configuration (Facebook, Instagram, TikTok, etc.) </br>
+✔️Payment, Shipping, Tax Set Up </br>
+✔️Subscription & Product Bundles </br>
+✔️Headless Commerce Development </br>
 
 ✅ Divi & Elementor Mastery:
 
